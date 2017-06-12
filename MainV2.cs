@@ -3669,5 +3669,10 @@ namespace MissionPlanner
         {
             new ConnectionOptions().Show(this);
         }
+
+        private void MainV2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
